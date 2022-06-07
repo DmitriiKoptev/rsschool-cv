@@ -1,18 +1,21 @@
-#Dmitrii Koptev
+# Dmitrii Koptev
 
 
-##Contact information:
+## Contact information
+
 * **Email:** dmitrii.koptev76@gmail.com
 * **Telegram:** @miitrey
 * **Vkontakte:** @id222746217
 * **Discord:** Dmitrii Koptev (@DmitriiKoptev)
 
 
-##About Me
+## About Me
+
 My goal is to learn more about programming languages and to get more expirience in development. I am an excellent team worker reliable, hardworking, kind and honest. I often seek new responsibilities within a wide range of employment areas.
 
 
-##Skills
+## Skills
+
 **Basic knowledge in:**
 * C++ (and its oop conceptions)
 * Python
@@ -20,7 +23,8 @@ My goal is to learn more about programming languages and to get more expirience 
 * CSS
 
 
-##Code Example
+## Code Example
+
 ```python
 import codewars_test as test
 from solution import multiply
@@ -33,15 +37,17 @@ def fixed_tests():
 ```
 
 
-##Expirience
+## Expirience
 
 
-##Education
+## Education
+
 high school education, 
 **Cources:**
 [Html academy](https://www.htmlacademy.ru/)
 [Freecodecamp Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 
-##English
+## English
+
 B2
