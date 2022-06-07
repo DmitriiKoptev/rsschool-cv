@@ -2,7 +2,6 @@
 
 
 ## Contact information
-
 * **Email:** dmitrii.koptev76@gmail.com
 * **Telegram:** @miitrey
 * **Vkontakte:** @id222746217
@@ -10,12 +9,10 @@
 
 
 ## About Me
-
 My goal is to learn more about programming languages and to get more expirience in development. I am an excellent team worker reliable, hardworking, kind and honest. I often seek new responsibilities within a wide range of employment areas.
 
 
 ## Skills
-
 **Basic knowledge in:**
 * C++ (and its oop conceptions)
 * Python
@@ -24,7 +21,6 @@ My goal is to learn more about programming languages and to get more expirience 
 
 
 ## Code Example
-
 ```python
 import codewars_test as test
 from solution import multiply
@@ -41,7 +37,6 @@ def fixed_tests():
 
 
 ## Education
-
 high school education, 
 **Cources:**
 [Html academy](https://www.htmlacademy.ru/)
@@ -49,5 +44,4 @@ high school education,
 
 
 ## English
-
 B2
