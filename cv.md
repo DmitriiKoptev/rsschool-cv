@@ -37,7 +37,7 @@ def fixed_tests():
 
 
 ## Education
-high school education, 
+* High school education 
 * **Cources:**
 [Html academy](https://www.htmlacademy.ru/)
 [Freecodecamp Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
