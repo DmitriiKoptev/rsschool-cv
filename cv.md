@@ -1,8 +1,8 @@
 1. Dmitrii Koptev
 2. email: dmitrii.koptev76@gmail.com ; telegram: @miitrey ; vkontakte: @id222746217 ; discord: Dmitrii Koptev (@DmitriiKoptev)
-3. 
+3. My goal is to learn more about programming languages and to get more expirience in development. I am reliable, hardworking, kind and honest
 4. basic knowledge in C++ (and its oop conceptions), Python, HTML, CSS
-5. 
+5.
 ```python
 import codewars_test as test
 from solution import multiply
