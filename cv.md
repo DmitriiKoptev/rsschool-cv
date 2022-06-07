@@ -1,8 +1,26 @@
-1. Dmitrii Koptev
-2. email: dmitrii.koptev76@gmail.com ; telegram: @miitrey ; vkontakte: @id222746217 ; discord: Dmitrii Koptev (@DmitriiKoptev)
-3. My goal is to learn more about programming languages and to get more expirience in development. I am reliable, hardworking, kind and honest
-4. basic knowledge in C++ (and its oop conceptions), Python, HTML, CSS
-5.
+#Dmitrii Koptev
+
+
+##Contact information:
+* **Email:** dmitrii.koptev76@gmail.com
+* **Telegram:** @miitrey
+* **Vkontakte:** @id222746217
+* **Discord:** Dmitrii Koptev (@DmitriiKoptev)
+
+
+##About Me
+My goal is to learn more about programming languages and to get more expirience in development. I am an excellent team worker reliable, hardworking, kind and honest. I often seek new responsibilities within a wide range of employment areas.
+
+
+##Skills
+**Basic knowledge in:**
+* C++ (and its oop conceptions)
+* Python
+* HTML
+* CSS
+
+
+##Code Example
 ```python
 import codewars_test as test
 from solution import multiply
@@ -13,6 +31,17 @@ def fixed_tests():
     def basic_test_cases():
         test.assert_equals(multiply(2,1), 2)
 ```
-6. don't have any
-7. high school education, html academy cources, freecodecamp Responsive Web Design cource
-8. B2
+
+
+##Expirience
+
+
+##Education
+high school education, 
+**Cources:**
+[Html academy](https://www.htmlacademy.ru/)
+[Freecodecamp Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+
+##English
+B2
